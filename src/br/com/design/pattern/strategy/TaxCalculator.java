@@ -1,6 +1,4 @@
-package br.com.design.orcamento.imposto;
-
-import br.com.design.orcamento.model.Orcamento;
+package br.com.design.pattern.strategy;
 
 import java.math.BigDecimal;
 

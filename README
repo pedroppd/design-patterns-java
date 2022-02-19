@@ -1,0 +1,13 @@
+<h1>STATE</h1>:
+    - Usado para mudança de status, pode ser de um produto, pedido e etc.
+
+<h1>STRATEGY</h1>:
+    - Usado para removeção de ifs, se vc tem um caso em que vc verifica várias possibilidade para uma mesma variável
+      é hora de usar o strategy
+
+<h1>CHAIN-OF-RESPONSABILITY</h1>:
+    - É uma cadeia de responsabilidades, onde se uma situação não ocorrer ele passa para a próxima e assim por diante
+
+<h1>TEMPLATE-METHOD</h1>:
+   - Método template, é bastante usado em casos em que há códigos repetidos dentro de métodos, ou seja, várias classes usando
+     um método que contém o mesmo comportamento(Em algumas partes)

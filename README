@@ -5,6 +5,9 @@
     - Usado para removeção de ifs, se vc tem um caso em que vc verifica várias possibilidade para uma mesma variável
       é hora de usar o strategy
 
+<h1>OBSERVER</h1>:
+    - classes observadoras, executando passo a passo para uma determinada ação
+
 <h1>CHAIN-OF-RESPONSABILITY</h1>:
     - É uma cadeia de responsabilidades, onde se uma situação não ocorrer ele passa para a próxima e assim por diante
 
